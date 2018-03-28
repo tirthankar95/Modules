@@ -1,2 +1,2 @@
-# mod2_solution
-### folder has the solutions.
+# Modules.
+### mod2_sol folder has the solutions.
